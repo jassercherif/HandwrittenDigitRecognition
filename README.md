@@ -16,7 +16,7 @@ Our trunk health (Continuous Integration signals) can be found at [hud.pytorch.o
   - [A GPU-Ready Tensor Library](#a-gpu-ready-tensor-library)
   - [Dynamic Neural Networks: Tape-Based Autograd](#dynamic-neural-networks-tape-based-autograd)
   - [Python First](#python-first)
-  - [Imperative Experiences](#imperative-experiences)  
+  - [Imperative Experiences](#imperative-experiences)   
   - [Fast and Lean](#fast-and-lean)
   - [Extensions Without Pain](#extensions-without-pain)
 - [Installation](#installation)
