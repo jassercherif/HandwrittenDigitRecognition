@@ -20,7 +20,7 @@ Our trunk health (Continuous Integration signals) can be found at [hud.pytorch.o
   - [Fast and Lean](#fast-and-lean)
   - [Extensions Without Pain](#extensions-without-pain)
 - [Installation](#installation)
-  - [Binaries](#binaries)
+  - [Binaries](#binaries) 
     - [NVIDIA Jetson Platforms](#nvidia-jetson-platforms)
   - [From Source](#from-source)
     - [Prerequisites](#prerequisites)
