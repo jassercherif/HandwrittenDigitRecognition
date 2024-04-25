@@ -2,14 +2,14 @@
                                                                                                                
 --------------------------------------------------------------------------------                                      
                                                                                               
-PyTorch is a Python package that provides two high-level features:                                                                     
-- Tensor computation (like NumPy) with strong GPU acceleration                                                                      
-- Deep neural networks built on a tape-based autograd system                                           
-                                                                                                                                              
-You can reuse your favorite Python packages such as NumPy, Scipy, and Cython to extend PyTorch when neeDed.                                                                                                                                                                         *
-                                                                                                                                                                                                                              
-Our trunk health (Continuous Integration signals) can be found at [hud.pytorch.org] (https://hud.pytorch.org/ci/pytorch/pytorch/main).                                                                                                                                
-                                                                                                                                                                                                                                                                                                         
+PyTorch is a Python package that provides two high-level features:                                                                      
+- Tensor computation (like NumPy) with strong GPU acceleration                                                                       
+- Deep neural networks built on a tape-based autograd system                                             
+                                                                                                                                                                      
+You can reuse your favorite Python packages such as NumPy, Scipy, and Cython to extend PyTorch when neeDed.                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                              
+Our trunk health (Continuous Integration signals) can be found at [hud.pytorch.org] (https://hud.pytorch.org/ci/pytorch/pytorch/main).                                                                                                                                    
+                                                                                                                                                                                                                                                                                                          
 <!-- toc -->                                                                                                                                                                                                                
                                                                                                                                                                                                                          
 - [More About PyTorch](#more-about-pytorch)                                                                                                                                 
